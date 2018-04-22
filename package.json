@@ -1,0 +1,24 @@
+{
+  "name": "panelinhabot",
+  "version": "1.0.0",
+  "description": "Pau no cu de quem ta lendo",
+  "main": "bot.js",
+  "author": "thekillerregs",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "discord.js-commando": "^0.9.0",
+    "discord.js-musicbot-addon": "^1.10.3-aplha",
+    "ffmpeg-binaries": "^3.2.2-3",
+    "fs": "0.0.1-security",
+    "get-youtube-id": "^1.0.0",
+    "opusscript": "0.0.6",
+    "request": "^2.85.0",
+    "youtube-info": "^1.2.0",
+    "youtube-search": "^1.0.10",
+    "ytdl-core": "https://github.com/fent/node-ytdl-core"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC"
+}
